@@ -31,3 +31,7 @@ Gazebo上で以下の機能を持つ自律移動ロボットを開発します�
 ## Current Status
 
 STEP 0 - GitHubポートフォリオ作成中
+
+## 学習記録
+
+- Git / GitHubの基本操作を学習中
